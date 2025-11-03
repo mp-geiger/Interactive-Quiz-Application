@@ -14,7 +14,10 @@ const Questions = {
 
     Science:
 
-    History:
+    History: [
+    { question: "Who was behind the assassination of MLK?" , options: ["James Earl Ray", "Charles Lee Ray", "Lee Harvey Oswald", "Jason Voorhees"], answer:"James Earl Ray"},
+    { question: "What year did World War II offically end?" , options: ["2012", "1945", "1923", "1967"], answer:"1945"}
+        ]
 
     Geography:
 
